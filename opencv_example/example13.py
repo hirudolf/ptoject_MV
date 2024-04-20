@@ -39,3 +39,4 @@ cv2.imshow("image", image)
 cv2.imshow("sharpen1", cv2.convertScaleAbs(sharpen1))
 cv2.imshow("sharpen2", cv2.convertScaleAbs(sharpen2))
 cv2.waitKey(0)
+
