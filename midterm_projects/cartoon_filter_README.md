@@ -8,4 +8,4 @@ hsv[:, :, 2] -= brightness: 밝기를 감소시켜서 톤다운을 해 아날로
 ## 변경전
 ![img_1.png](img_1.png)
 ## 변경후
-![img_4.png](img_4.png)
+![img_6.png](img_6.png)
